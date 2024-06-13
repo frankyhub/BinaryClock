@@ -1,0 +1,344 @@
+80999095159919
+!Goody
+1N4147_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+!Goody
+5V-Buchse
+5V-Buchse
+Arduino
+0
+3
+3
+!Goody
+5V-Buchse_flach
+5V-Buchse
+Arduino
+0
+3
+2
+!Goody
+BAT-HLD-SMD
+SMD-BAT-Draht
+
+0
+5
+3
+!Goody
+BAT-HLD-SMD-2032
+SMD-BAT-KHF
+SMT SMD Knopf Knopfzelle CR2032 Batteriehalter, CR2032 Batterie 10 Stück / SET          https://www.ebay.de/itm/333790214347?var=542875473501
+0
+3
+2
+!Goody
+BAT-HLD-SMD-Blech
+SMD-BAT-KHF
+SMT SMD Knopf Knopfzelle CR2032 Batteriehalter, CR2032 Batterie 10 Stück / SET          https://www.ebay.de/itm/392890987952
+0
+5
+2
+!Goody
+BAT-HLD-SMD-CR1225
+SMD-BAT-KHF
+SMT SMD Knopf Knopfzelle CR2032 Batteriehalter, CR2032 Batterie 10 Stück / SET          https://www.ebay.de/itm/392890987952
+0
+3
+2
+!Goody
+BAT-HLD-SMD-Gelb
+SMD-BAT-KHF
+SODIAL(R) 20 Stueck Batterie Gehaeuse CR2032 SMD Zellenknopf Batterie Halter Sockel Gehaeuse Weiss         https://www.amazon.de/gp/product/B01HUNGG1Q/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+0
+2
+2
+!Goody
+BAT_HLD_SW
+CR2032 Bat
+
+0
+2
+2
+!Goody
+BC558
+BC558
+BC558
+0
+3
+3
+!Goody
+BatteryHolder9V
+https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf
+9V Battery Holder
+0
+2
+2
+!Goody
+C_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+!Goody
+ESP32-CAM
+16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg
+ESP8266 WiFi microcontroller
+0
+16
+16
+!Goody
+Fuseholder_Cylinder-5x20mm_KHF
+https://www.tme.eu/en/Document/3b48dbe2b9714a62652c97b08fcd464b/PTF78.pdf
+Fuseholder horizontal open 5x20 Stelvio-Kontek PTF/78
+0
+5
+2
+!Goody
+HF49DFD
+HF49DFD
+
+0
+4
+4
+!Goody
+HF49DFD_1
+HF49DFD
+
+0
+4
+4
+!Goody
+LED-Herz 8
+
+
+0
+16
+2
+!Goody
+LED-Herz Bärli
+
+
+0
+20
+2
+!Goody
+LED-Ring 8
+
+
+0
+16
+2
+!Goody
+LED-Ring 12
+
+
+0
+24
+2
+!Goody
+LED-Taster
+LED-Taster
+LED-Taster
+0
+8
+7
+!Goody
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+!Goody
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+!Goody
+LM2596DC
+LM2596DC
+StepDown Spannungsregler
+0
+4
+4
+!Goody
+LP
+LP
+
+0
+1
+1
+!Goody
+LP_PCB-Fräse
+LP
+
+0
+1
+1
+!Goody
+LP_rund
+LP
+
+0
+1
+1
+!Goody
+Lötklipp
+LP
+
+0
+1
+1
+!Goody
+Micro_SchalterKHF
+Micro_SchalterKHF
+
+0
+3
+3
+!Goody
+Micro_SchalterWürth
+Micro_SchalterKHF
+
+0
+6
+6
+!Goody
+Mini-Poti
+
+
+0
+4
+3
+!Goody
+Mini-Poti_sw
+
+
+0
+3
+3
+!Goody
+NANO_Stift_16PIN
+NANO_Stift_16PIN
+connector TE 826576 vertical
+0
+16
+16
+!Goody
+PL-Stecker3pol
+PL-Stecker
+
+0
+3
+3
+!Goody
+PL-Stecker4pol
+PL-Stecker4pol
+
+0
+4
+4
+!Goody
+Pegelwandler
+Pegelwandler
+
+0
+12
+12
+!Goody
+Potentiometer_Piher_PC-16_Single_Horizontal
+Potentiometer, horizontally mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal  Omeg PC16PU  Omeg PC16PU  Omeg PC16PU  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GJ/249GJ Single  Vishay/Spectrol 248GH/249GH Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148/149 Single  Vishay/Spectrol 148A/149A Single with mounting plates  Vishay/Spectrol 148/149 Double  Vishay/Spectrol 148A/149A Double with mounting plates  Piher PC-16 Single  Piher PC-16 Single  Piher PC-16 Single
+0
+3
+3
+!Goody
+Poti_sw_stehend
+
+
+0
+3
+3
+!Goody
+SI-Halter_5x20
+SI-Halter_5x20
+
+0
+4
+4
+!Goody
+SMD Taster 6x6
+Würth SMD Taster 6x6
+
+0
+4
+2
+!Goody
+SMD Taster 12x12
+Würth SMS Taster 12x12
+
+0
+4
+2
+!Goody
+SMDLED
+SMDLED
+
+0
+2
+2
+!Goody
+SicherungshalterB2Q
+SicherungshalterKHF
+
+0
+4
+4
+!Goody
+TO-92-KHF
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
+0
+3
+3
+!Goody
+TO-92L_Wide
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Molded Wide transistor
+0
+3
+3
+!Goody
+TO-92_Wide
+TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+!Goody
+USB_A
+USB A connector
+USB_A
+0
+9
+3
+!Goody
+ob-logo_B.SilkS
+Oberlab-Logo B.SilkS
+
+0
+0
+0
+!Goody
+ob-logo_F.SilkS
+Oberlab-Logo F.SilkS
+
+0
+0
+0
